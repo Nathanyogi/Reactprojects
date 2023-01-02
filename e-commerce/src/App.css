@@ -1,0 +1,32 @@
+body{
+  background-color: #f1f3f6 !important;
+}
+.home{
+  min-width: 23% !important;
+  max-width: 23% !important;
+}
+.home:hover{
+  box-shadow: 0 1rem 3rem rgba(0.0.0,.175) !important;
+}
+
+.img-height{
+  height: 250px;
+}
+.price-card{
+  position: fixed;
+  right: 30px;
+}
+.banner li{
+  display: flex;
+  align-items: center;
+  flex-direction: column ;
+}
+.banner a{
+  font-weight: 500px;
+  font-size: 14px;
+}
+
+.loader{
+  height: 300px;
+  width: 300px;
+}
